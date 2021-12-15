@@ -8,25 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Welcome! I am an Assistant Professor at the School of Arts and Sciences at 
+[Azim Premji University](https://apu.edu.in/). I specialize
+in human genetics, epigenetics, and bioinformatics. 
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+I earned my Ph.D in Bioinformatics and an M.A. applied statistics in  from the
+[University of Michigan](https://www.umich.edu/) and my
+B.S. in Computational Biology from the [National University of Singapore](https://www.nus.edu.sg/). I did my postdoctoral work in the Brown lab at the [University of Pennsylvania](https://www.upenn.edu).
+
+My [research](research) explores genetic variation in human populations and its role in regulating gene expression, and a host of traits. I primarily use bioinformatic and statistical approaches to answer these questions. 
+
+I [teach](teaching) courses on genomics, human genetics, R programming.
