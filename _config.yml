@@ -178,10 +178,10 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  research:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
