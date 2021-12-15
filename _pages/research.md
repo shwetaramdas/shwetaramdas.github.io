@@ -7,28 +7,11 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My research lies at the intersection of genetics and data science. I am interested in human genetic variation: between populations and within populations. I work on both arms of the human genomics experimental design--family-based studies and large population cohorts--to identify trait-associated variation.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+I have worked with the Million Veterans Program, the Global Lipids Consortium, the Genotype-Tissue Expression project, and various consortia to identify trait-associated genes and signals. I am currently characterizing gene regulation in the Amish population. 
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
-
+I'm also interested in re-examining existing genomic datasets for novel discovery. 
 <nbsp>
 
 {% include base_path %}
