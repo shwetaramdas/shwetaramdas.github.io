@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Shweta Ramdas"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shweta Ramdas"
+description              : &description "Geneticist, Educator"
+url                      : https://shwetaramdas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "shwetaramdas/shwetaramdas.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,20 +77,20 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : shwetaramdas
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Shweta Ramdas"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Assistant Professor"
+  location         : "Bengaluru, India"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "http://orcid.org/0000-0001-8888-4661"
+  googlescholar    : "https://scholar.google.com/citations?user=KIf7ysAAAAAJ"
+  email            : "shweta.ramdas@apu.edu.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "shwetaramdas"
+  gitlab           : # "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : "shwetaramdas"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : "shramdas"
   vine             :
   weibo            :
   xing             :
