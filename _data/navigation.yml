@@ -12,6 +12,6 @@ main:
   - title: "Resources"
     url: /resources/
 
-- title: "Posts"
+  - title: "Posts"
     url: /posts/
     
