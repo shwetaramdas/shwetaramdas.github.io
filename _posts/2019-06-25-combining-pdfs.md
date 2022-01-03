@@ -11,6 +11,9 @@ tags:
 
 
 <!--more-->
+### Paper 3: Effect sizes of causal variants for gene expression and complex traits differ between populations. Patel et al 2021.
+Looking at admixed individuals to ask: do effect sizes of causal variants differ between populations? Foudn that local ancestry does improve variance explained in admixed individuals. Used a clever trick looking only at European ancestry regions in admixed individuals to compare effect sizes between EUR and AFR populations--effect sizes are significantly different for gene expression. 
+
 ### Paper 2: Mutation saturation for fitness effects at human CpG sites. Agarwal et al 2021.
 Methylated CpG sites are close to saturated at current human genome/exome sample sizes (incredibly cool) which allows us to ask cool questions about selection on these. When your samples sizes are large enough, the absence of a mutation/variant is enough to say something about its functional importance. The paper also performs interesting ways to estimate limits on the number of generations captured by a population of X individuals.
 
