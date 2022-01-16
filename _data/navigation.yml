@@ -15,3 +15,5 @@ main:
   - title: "Posts"
     url: /posts/
     
+  - title: "For students"
+    url: /students/
