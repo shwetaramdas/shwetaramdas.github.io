@@ -8,7 +8,7 @@ author_profile: true
 I conduct "Resilience Workshops" for undergraduate students at Azim Premji University. Here are some resources I use for these. 
 
 ### Resilience (or bouncing back from the difficult sh\*t life throws at you)
-(Emotional resilience)[https://positivepsychology.com/emotional-resilience/] can be developed by:
+[Emotional resilience](https://positivepsychology.com/emotional-resilience/) can be developed by:
 1. Recognizing the fact that our thoughts influence our actions
 2. Acknowledging stress and be willing to effectively cope with it
 3. Being open to changes and flexible while adapting to new situations
