@@ -5,7 +5,7 @@ permalink: /resilience/
 author_profile: true
 
 ---
-I conduct "Resilience Workshops" for undergraduate students at Azim Premji University. Here are some resources I use for these. 
+I conduct "Resilience Workshops" for undergraduate students at Azim Premji University to help build mechanisms and habits to deal with stress, and to thrive in adversity. Here are some resources I use for these. 
 
 ### Resilience (or bouncing back from the difficult sh\*t life throws at you)
 [Emotional resilience](https://positivepsychology.com/emotional-resilience/) can be developed by:
