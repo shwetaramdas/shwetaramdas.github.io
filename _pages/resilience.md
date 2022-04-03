@@ -15,6 +15,9 @@ I conduct "Resilience Workshops" for undergraduate students at Azim Premji Unive
 4. Accepting the truth that by changing the way we react to stress, a lot of difference can be made
 5. Embracing the self by building self-compassion and empathy
 
+[How to build resilience during college](https://hbr.org/2020/05/how-to-build-resilience-during-college-when-it-matters-most)
+
+
 ### Wellness
 [The six dimensions of wellness](https://www.ymcasf.org/about/blog/six-dimensions-wellness) are physical, emotional, environmental, social, intellectural, spiritual. I encourage my students to commit to at least one of these exercises. 
 1. Breathing. These exercises can simulate the relaxation response in the body. [A five-minute breathing meditation to bring some calm](https://www.youtube.com/watch?v=94Dh8TbctwY), or [mindful breathing](https://ggia.berkeley.edu/practice/mindful_breathing)
