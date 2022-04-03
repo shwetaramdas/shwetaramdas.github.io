@@ -11,9 +11,6 @@ main:
 
   - title: "Resources"
     url: /resources/
-
-  - title: "Posts"
-    url: /posts/
     
   - title: "Resilience"
     url: /resilience/
