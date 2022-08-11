@@ -10,7 +10,7 @@ Welcome to 'A Burst of Science!' This is a weekly (short) podcast series by Divy
 
 ### Episodes
 #### Season 1 Episode 3: A new fish that might have once had legs! [Kannada](https://anchor.fm/apu-biology/episodes/Episode-3--Fish-that-went-from-sea-to-land-and-back-to-sea-e1lssb5)  [Hindi](https://anchor.fm/shweta-ramdas/episodes/3-e1ltcrj)
-![Qikiktania fossil](burstofscience/qikiktania.jpg)
+![Qikiktania fossil](qikiktania.jpg)
 
 Sources: [ZME Science](https://www.zmescience.com/science/fossil-friday-this-ancient-fish-moved-to-land-didnt-like-it-and-moved-back-into-the-sea)
 
