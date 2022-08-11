@@ -255,6 +255,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _burstofscience
+  - scope:
+      path: ""
+      type: burstofscience
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
