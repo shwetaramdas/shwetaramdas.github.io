@@ -15,5 +15,4 @@ Welcome to 'A Burst of Science!' This is a weekly (short) podcast series by Divy
 
 #### Season 1 Episode 2: Microplastics found in human lungs! [Kannada](https://anchor.fm/apu-biology/episodes/Episode-2--Microplastics-e1m8n7f)  [Hindi](https://anchor.fm/shweta-ramdas/episodes/2-e1jgeb4)
 
-![](Microplastic.jpg)
 Sources: [NPR](https://www.npr.org/2022/04/06/1091246691/microplastics-found-in-human-lungs)
