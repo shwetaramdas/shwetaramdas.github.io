@@ -20,3 +20,5 @@ Sources: [ZME Science](https://www.zmescience.com/science/fossil-friday-this-anc
 Sources: [NPR](https://www.npr.org/2022/04/06/1091246691/microplastics-found-in-human-lungs)
 
 #### Season 1 Episode 1: Why dolphins scratch themselves against corals! [Kannada](https://anchor.fm/apu-biology/episodes/Episode-1--Self-medication-by-dolphins-e1m8220)  [Hindi](https://anchor.fm/shweta-ramdas/episodes/1-e1m6qsm)
+
+Sources: [Scientific American](https://www.scientificamerican.com/article/dolphins-rub-against-mucus-oozing-corals-to-soothe-skin/)
