@@ -13,7 +13,7 @@ You can also find us on Instagram ([Hindi](www.instagram.com/ekchutkivigyan), [K
 Send feedback/comments/questions/brickbats to either of us at firstname.lastname@apu.edu.in
 
 ### Episodes
-#### Season 1 Episode 4: Janaki Ammal: India's 'Mother of Botany' [Hindi](https://anchor.fm/shweta-ramdas/episodes/4-e1mklas)
+#### Season 1 Episode 4: Janaki Ammal: India's 'Mother of Botany' [Kannada](https://anchor.fm/apu-biology/episodes/Episode-4--Sugarcane-and-Janaki-ammal-e1mf9b3) [Hindi](https://anchor.fm/shweta-ramdas/episodes/4-e1mklas)
 Sources: [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/pioneering-female-botanist-who-sweetened-nation-and-saved-valley-180972765/)
 [Rackham Graduate School](https://rackham.umich.edu/project/janaki-ammal-edvaleth-kakkat/)
 
