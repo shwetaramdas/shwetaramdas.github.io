@@ -13,6 +13,10 @@ You can also find us on Instagram ([Hindi](www.instagram.com/ekchutkivigyan), [K
 Send feedback/comments/questions/brickbats to either of us at firstname.lastname@apu.edu.in
 
 ### Episodes
+#### Season 1 Episode 4: Janaki Ammal: India's 'Mother of Botany' [Hindi](https://anchor.fm/shweta-ramdas/episodes/4-e1mklas)
+Sources: [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/pioneering-female-botanist-who-sweetened-nation-and-saved-valley-180972765/)
+[Rackham Graduate School](https://rackham.umich.edu/project/janaki-ammal-edvaleth-kakkat/)
+
 #### Season 1 Episode 3: A new fish that might have once had legs! [Kannada](https://anchor.fm/apu-biology/episodes/Episode-3--Fish-that-went-from-sea-to-land-and-back-to-sea-e1lssb5)  [Hindi](https://anchor.fm/shweta-ramdas/episodes/3-e1ltcrj)
 
 Sources: [ZME Science](https://www.zmescience.com/science/fossil-friday-this-ancient-fish-moved-to-land-didnt-like-it-and-moved-back-into-the-sea)
