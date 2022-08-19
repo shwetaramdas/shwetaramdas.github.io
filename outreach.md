@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: talk
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
