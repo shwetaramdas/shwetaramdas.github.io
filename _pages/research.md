@@ -23,3 +23,6 @@ I'm also interested in re-examining existing genomic datasets for novel discover
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+  
+You can find my full list of publications on my Google Scholar profile.
