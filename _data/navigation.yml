@@ -6,17 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "For students"
+    url: /students/
 
   - title: "Resources"
     url: /resources/
     
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Resilience"
     url: /resilience/
-
-  - title: "For students"
-    url: /students/
 
   - title: "Outreach"
     url: /outreach/
