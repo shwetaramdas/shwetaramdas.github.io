@@ -23,11 +23,11 @@ I'm also interested in collaborating with biologists to use bioinformatic approa
 #### Regulatory mechanisms of human gene classes
 
 ### Grants/Funding
--AWS research grant for cloud computing
--SERB Startup Grant (2021)
--Azim Premji University Startup Grant (2021)
--Gujarat Department of Biotechnology (Co-investigator; Primary Investigator: Dr Harsh Sheth)
--ICMR (Co-investigator; primary investigator: Dr Anshika Srivastava)
+* AWS research grant for cloud computing 
+* SERB Startup Grant (2021)
+* Azim Premji University Startup Grant (2021)
+* Gujarat Department of Biotechnology (Co-investigator; Primary Investigator: Dr Harsh Sheth)
+* ICMR (Co-investigator; primary investigator: Dr Anshika Srivastava)
 
 
 
