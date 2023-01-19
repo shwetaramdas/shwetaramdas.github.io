@@ -13,4 +13,4 @@ author_profile: true
 
 
 ### Podcasts
-Head on over to [A Burst of Science](www.shwetaramdas.github.io/burstofscience) for weekly 2-minute snippets of biology news in hindi
+Head on over to [A Burst of Science](https://www.youtube.com/channel/UCZZ3PZjSt4iiow8nYSghARw) for weekly 2-minute snippets of biology news in hindi
