@@ -5,12 +5,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-  
-  - title: "For students"
-    url: /students/
-
+ 
   - title: "Resilience"
     url: /resilience/
+
+  - title: "For students"
+    url: /students/
 
   - title: "Outreach"
     url: /outreach/
