@@ -86,11 +86,11 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "Bengaluru, India"
-  employer         :
+  employer         : "Centre for Brain Research"
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-8888-4661"
   googlescholar    : "https://scholar.google.com/citations?user=KIf7ysAAAAAJ"
-  email            : "shweta.ramdas@apu.edu.in"
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
