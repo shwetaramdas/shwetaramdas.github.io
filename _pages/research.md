@@ -15,6 +15,22 @@ I have worked with the Million Veterans Program, the Global Lipids Consortium, t
 
 I'm also interested in collaborating with biologists to use bioinformatic approaches to understand questions about gene and genome function. 
 
+### Ongoing work:
+#### Long-read sequencing in autism-spectrum disorders in Indian populations
+
+#### Gene-hunting for Mendelian disorders
+
+#### Regulatory mechanisms of human gene classes
+
+### Grants/Funding
+-AWS research grant for cloud computing
+-SERB Startup Grant (2021)
+-Azim Premji University Startup Grant (2021)
+-Gujarat Department of Biotechnology (Co-investigator; Primary Investigator: Dr Harsh Sheth)
+-ICMR (Co-investigator; primary investigator: Dr Anshika Srivastava)
+
+
+
 <nbsp>
 
 {% include base_path %}
