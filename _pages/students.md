@@ -9,6 +9,15 @@ January 2023
 
 If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students with a computational background are especially encouraged to apply, though this is not a requirement. Students who can commit to at least 9 months in the lab will be preferred. 
 
+### Lab philosophy
+
+The goal of this lab is to do good science that is __honest, reliable, and solid__. This means being okay with being wrong, and constantly learning from ours and others’ results. Mistakes happen in science (especially in bioinformatics), and it’s necessary that we own up to them and move beyond them.
+
+Genomics is a collaborative field, and I expect the same collaborative spirit to exist in our lab. It is my hope that we all help each other out and constantly learn from each other. We are not competing with other members of the group.
+
+We are an inclusive group, and everyone should feel welcome in our group. We will strive to ensure that everyone’s voice is heard. In scientific discussions, we should disagree in a manner that is firm but gentle. There will be no room for personal attacks in this lab. This is also true when we engage with folks outside the lab.
+
+
 ### Expectations for research students who work with me
 
 1. Record all your work. Reproducibility is of primary importance in computational biology. When you revisit an analysis six months later (something which will definitely happen), you should be able to figure out what you did. You can use Benchling as an electronic lab notebook.
