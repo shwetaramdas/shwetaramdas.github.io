@@ -7,7 +7,7 @@ author_profile: true
 ---
 January 2023
 
-If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students with a computational background are especially encouraged to apply, though this is not a requirement. Students who can commit to at least 9 months in the lab will be preferred. We cannot currently take students for a period shorter than 6 months. 
+If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students who can commit to at least 9 months in the lab will be preferred. We cannot currently take students for a period shorter than 6 months. 
 
 ### Lab philosophy
 
