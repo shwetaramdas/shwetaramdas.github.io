@@ -7,7 +7,7 @@ author_profile: true
 ---
 January 2023
 
-If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students with a computational background are especially encouraged to apply, though this is not a requirement. Students who can commit to at least 9 months in the lab will be preferred. 
+If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students with a computational background are especially encouraged to apply, though this is not a requirement. Students who can commit to at least 9 months in the lab will be preferred. We cannot currently take students for a period shorter than 6 months. 
 
 ### Lab philosophy
 
@@ -30,8 +30,8 @@ We are an inclusive group, and everyone should feel welcome in our group. We wil
 
 ### What students can expect from me (inspired by [Ziyue Gao](https://sites.google.com/view/gaolab/join-us?authuser=0))
 
-- I will provide rigorous training in statistics, bioinformatics and human genomics
-- I will work with you to help you identify a question that drives you
+- I will provide rigorous training in bioinformatics, statistics and human genetics.
+- I will work with you to help you identify a question that drives you.
 - I will help you develop your writing, presenting, and leadership skills (a key both in academia and outside academia).
 - I will meet with you weekly to troubleshoot, prioritize next steps, and help keep projects moving.
 - I will help move your project from the first draft to a paper/conference presentation
