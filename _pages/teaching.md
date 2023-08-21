@@ -6,7 +6,7 @@ title: "Teaching"
 Like many instructors, my research and teaching are complementary and feed off each other. I enjoy teaching both undergraduates and grad students. 
 
 ## CBR103: Scientific Writing and Thinking
-
+(cbr103.md)[CBR103]
 ## Guest Lectures
 * I taught at the preparatory school on population genetics and evolution in Febuary 2023.
 * NIMHANS workshop on genetics for clinicians (June 2023)
