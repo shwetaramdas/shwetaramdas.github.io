@@ -6,7 +6,7 @@ title: "Teaching"
 Like many instructors, my research and teaching are complementary and feed off each other. I enjoy teaching both undergraduates and grad students. 
 
 ## CBR103: Scientific Writing and Thinking
-[CBR103](https://github.com/shwetaramdas/shwetaramdas.github.io/blob/79f9d5a915de33f009fa6efaf3b924eb95400b3f/_teaching/cbr103.md)
+[CBR103](_teaching/cbr103.md)
 
 ## Guest Lectures
 * I taught at the preparatory school on population genetics and evolution in Febuary 2023.
