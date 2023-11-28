@@ -15,12 +15,15 @@ I have worked with the Million Veterans Program, the Global Lipids Consortium, t
 
 I'm also interested in collaborating with biologists to use bioinformatic approaches to understand questions about gene and genome function. 
 
-### Ongoing work:
- Long-read sequencing in autism-spectrum disorders in Indian populations
+### Ongoing projects:
+ 
+#### Long-read sequencing for structural variant detection autism-spectrum disorders  (in collaboration with [Dr Harsh Sheth](https://twitter.com/professor_gene)). 
+ 
+Using Oxford Minion long-read sequencing, we are looking for pathogenic structural variants responsible for severe instances of autism spectrum disorders.
 
- Gene-hunting for Mendelian disorders
+#### Regulatory mechanisms of human gene classes
 
- Regulatory mechanisms of human gene classes
+
 
 ### Grants/Funding
 * AWS research grant for cloud computing 
