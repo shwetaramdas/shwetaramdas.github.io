@@ -10,14 +10,17 @@ January 2023
 If you are interested in working with me for an undergraduate projects/masters thesis, please get in touch over email with a brief description of why you are interested in joining my group, your coursework, and whether you have experience in programming. Students who can commit to at least 9 months in the lab will be preferred. We currently cannot take students for a period shorter than 6 months. 
 
 ### Current lab members
-1. Eric Macwan. Project assistant. Huntington's disease haplotypes
+1. Eric Macwan. Project assistant. Huntington's disease haplotypes, mtDNA variation
 2. Debasrija Mondal. Data analyst. GenomeIndia phenotyping
 3. Hiba Ali (jointly with Latha Diwakar). Project Assistant. WGS of a Parkinson's Disease cohort.
-4. Nagesh Srikalulam. Postdoctoral Fellow (jointly with Latha Diwakar). GWAS of a Parkinson's Disease cohort.
-5. Himanshu Joshi. Postdoctoral Fellow. 
-6. Sagar S. Project intern. Characterization of transposable elements.
-7. Sohan Angelo. Project intern. Characterization of the APOE haplotype in Indian populations.
+4. Camellia Sarkar. Postdoctoral Fellow (jointly with Latha Diwakar). GWAS of a Parkinson's Disease cohort.
+5. Sagar S. Project intern. Characterization of transposable elements and estimating function.
+6. Karthik Rajesh (undergraduate student).
 
+### Alumni
+1. Sana Hermain (PES University undergraduate thesis student)
+2. Himanshu Joshi (postdoctoral fellow)
+3. 
 
 ### Lab philosophy
 
