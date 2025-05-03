@@ -12,15 +12,18 @@ If you are interested in working with me for an undergraduate projects/masters t
 ### Current lab members
 1. Eric Macwan. Project assistant. Huntington's disease haplotypes, mtDNA variation
 2. Debasrija Mondal. Data analyst. GenomeIndia phenotyping
-3. Hiba Ali (jointly with Latha Diwakar). Project Assistant. WGS of a Parkinson's Disease cohort.
-4. Camellia Sarkar. Postdoctoral Fellow (jointly with Latha Diwakar). GWAS of a Parkinson's Disease cohort.
-5. Sagar S. Project intern. Characterization of transposable elements and estimating function.
-6. Karthik Rajesh (undergraduate student).
+3. Hiba Ali (jointly with Latha Diwakar). Project Assistant. WGS of a Parkinson's Disease cohort
+4. Sharwary MS (undergraduate student, IISc). Genetics of mitochondrial DNA copy number
+5. Andie Pinto (undergraduate student, PES). Polygenic risk scores in Parkinson's Disease
+6. Nidhi Gamdhir (undergraduate student, PES). Structural variants in Parkinsons Disease
 
-### Alumni
-1. Sana Hermain (PES University undergraduate thesis student)
+### Alumni (those who have been in lab for more than 3 months)
+1. Sana Hermain (PES University undergraduate thesis student, now a Masters student at University of Brisbane)
 2. Himanshu Joshi (postdoctoral fellow)
-3. 
+3. Camellia Sarkar (postdoctoral fellow)
+4. Ruchitha BG (project assistant, now a PhD student at Max Planck Institute, Plon)
+5. Sagar S (project assistant, now a PhD student at NCBS)
+6. Roshini Sundararajan (intern, now a project assistant at IIT Madras)
 
 ### Lab philosophy
 
@@ -47,5 +50,5 @@ We are an inclusive group, and everyone should feel welcome in our group. We wil
 - I will work with you to help you identify a question that drives you.
 - I will help you develop your writing, presenting, and leadership skills (a key both in academia and outside academia).
 - I will meet with you weekly to troubleshoot, prioritize next steps, and help keep projects moving.
-- I will help move your project from the first draft to a paper/conference presentation
+- I will help move your project from the first draft to a paper/conference presentation.
 - I will be supportive of your career goals and will work with you to find the best ways to reach them.
