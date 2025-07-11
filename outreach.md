@@ -6,7 +6,9 @@ author_profile: true
 
 ---
 
-### Some great resources on genetics that I often use and turn to
+I spoke about human genetics at ['Kaapi with Kuriosity'](https://www.youtube.com/live/-GGBoRBDrV8) in June 2025.
+
+### Some great resources on human genetics that I often use and turn to
 1. [Are we all related?](https://ed.ted.com/best_of_web/qRqRiz5q)
 2. [The science of skin color](https://blog.ed.ted.com/2016/03/22/the-science-of-skin-color-in-ted-ed-gifs/)
 3. [A great thread on the evolution of lactase persistence](https://twitter.com/AdamRutherford/status/1552317438829760515)
