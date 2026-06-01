@@ -15,19 +15,6 @@ I have worked with the GenomeIndia project, the Million Veterans Program, the Gl
 
 I'm also interested in collaborating with biologists to use bioinformatic approaches to understand questions about gene and genome function. 
 
-### Ongoing projects:
-
-#### Role of mitochondrial copy number in aging-related phenotypes
-
-#### Epigenetics of aging in Indian populations
-
- 
-#### Long-read sequencing for structural variant detection autism-spectrum disorders  (in collaboration with [Dr Harsh Sheth](https://twitter.com/professor_gene)). 
- 
-Using Oxford Minion long-read sequencing, we are looking for pathogenic structural variants responsible for severe instances of autism spectrum disorders.
-
-
-
 
 ### Grants/Funding
 * AWS research grant for cloud computing (2021)
